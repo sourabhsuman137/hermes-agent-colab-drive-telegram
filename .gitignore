@@ -1,0 +1,20 @@
+# Never commit secrets or local Hermes data
+.env
+*.env
+config.yaml
+hermes_data/
+.hermes/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
