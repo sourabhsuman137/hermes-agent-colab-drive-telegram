@@ -2,7 +2,7 @@
 
 A one-click Google Colab notebook that installs and runs [Hermes Agent](https://github.com/NousResearch/hermes-agent) (by [Nous Research](https://nousresearch.com)) as a persistent Telegram bot — with Google Drive backing so your config, credentials, and memory survive across Colab sessions, and zero recurring API cost.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sourabhsuman137/hermes-agent-colab-drive-telegram/blob/main/Hermes_Agent_Colab_Drive_Telegram_v3.ipynb) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/sourabhsuman137/hermes-agent-colab-drive-telegram/blob/main/LICENSE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sourabhsuman137/hermes-agent-colab-drive-telegram/blob/main/Hermes_Agent_Colab_Drive_Telegram_v4.ipynb) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/sourabhsuman137/hermes-agent-colab-drive-telegram/blob/main/LICENSE)
 
 > This repo does **not** contain Hermes Agent's source code. It's a setup notebook that installs the official Hermes Agent via its own installer and configures it for a specific environment (Colab + Drive + Telegram). All credit for the agent itself goes to [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) (MIT licensed).
 
